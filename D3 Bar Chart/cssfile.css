@@ -1,0 +1,35 @@
+.chart rect {
+
+  fill: steelblue;
+
+}
+
+.chart text {
+
+  font: 10px sans-serif;
+
+}
+
+.centered-chart {
+
+  text-align: center;
+
+}
+
+.axis text {
+
+  font: 10px sans-serif;
+
+}
+
+.axis path,
+
+.axis line {
+
+  fill: none;
+
+  stroke: #000;
+
+  shape-rendering: crispEdges;
+
+}

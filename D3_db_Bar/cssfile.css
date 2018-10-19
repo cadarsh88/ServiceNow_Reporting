@@ -1,0 +1,13 @@
+h1 {
+      font-size: 1.2em;
+      color: #177CB8;
+      margin-bottom: 0;
+    }
+
+    .bar {
+      fill: #177CB8;
+    }
+
+    .bar:hover {
+      fill: #b8b8b8;
+    }
